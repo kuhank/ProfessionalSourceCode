@@ -1,0 +1,15 @@
+{
+    "source": {"filename":"filename.xls",
+                "folder":"C:\\customepath\\input"
+    },
+    "output":{"filename":"filename.xlsx",
+                "folder":"C:\\custompath\\ouput"
+    },
+    "sourceDB":{"server":"x.x.x.x",
+    "database": "db",
+    "username": "user",
+    "password": "PWD",
+    "driver":"{ODBC Driver 17 for SQL Server}",
+    "tablename":"tablename"
+    }
+}
